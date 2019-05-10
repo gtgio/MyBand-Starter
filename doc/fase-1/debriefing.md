@@ -16,15 +16,16 @@ Project MyBand debriefing
 Door: Giovanni Martelli
 Klas: MD1A
 
-* Wat is volgens jou de opdracht?
+* WAT IS VOLGENS JOU DE OPDRACHT?
 
 Volgens mij is de opdracht voor dit project dat je een website maakt over iets wat je leuk vindt, dit kan een band, een artiest of een club of vereniging zijn. Op de website plaats je een biografie en geschiedenis over je onderwerp met foto’s en eventueel video’s. Ook maak je een website met een soort van agenda of planning waarin je bijvoorbeeld evenementen of optredens zet. Ook maak je een pagina over jezelf waarin je kort over jezelf verteld en uitlegt waarvoor deze opdracht is.
 
-* Wat wordt er gevraagd?
+* WAT WORDT ER GEVRAAGD?
+
 Er wordt gevraagd om een professionele website over bijvoorbeeld een band, artiest, club of vereniging die je leuk vind (mag ook andere onderwerpen zijn).
 
 
-* Welke globale planning is er?
+* WELKE GLOBALE PLANNING IS ER?
 	
 1	7 – 10 mei 2019
         Werkzaamheden
@@ -64,7 +65,7 @@ Er wordt gevraagd om een professionele website over bijvoorbeeld een band, artie
 
 
 
-* Wat zijn je eerste ideeën voor jouw project?
+* WAT ZIJN JE EERSTE IDEEEN VOOR JOUW PROJECT?
 
 Mijn idee voor dit project is dat ik het ga maken over mijn 3 favoriete artiesten.
 Op mijn website wil ik 3 pagina’s voor de artiesten, 1 voor elk. Daarnaast wil een pagina met daarop een agenda of planning waar de optredens en tours komen te staan. Ook maak een pagina met info over mezelf en natuurlijk een homepage.
