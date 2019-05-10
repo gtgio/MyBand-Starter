@@ -24,23 +24,17 @@ Er wordt gevraagd om een professionele website over bijvoorbeeld een band, artie
 
 
 Welke globale planning is er?
-W	Datum		Bijzonderheden
-1	7 – 10 mei 2019
-
-Werkzaamheden
-	Project briefing & kick-start
 	
-Inleveren/opleveren
+1	7 – 10 mei 2019
+        Werkzaamheden
+	Project briefing & kick-start
 	Git repository link README Project plan Trello Scrum Board link
 	
-2       Datum	
-        13 – 17 mei 2019
-	
-Werkzaamheden
+2       13 – 17 mei 2019
 	User stories
-Wireframes
+        Wireframes
 	Backlog / user stories
-Wireframes Planning sprint 1
+        Wireframes Planning sprint 1
 	do 16 mei: studiedag 
 
 3	20 – 24 mei 2019
