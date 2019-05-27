@@ -16,3 +16,6 @@ In deze directory zet je per week al je project documentatie:
 Lees het document [README] in de hoofdmap van dit project voor een overzicht.
 
 [README]: <../README.md>  
+
+------------------------------------------------------------------------------------------------------------------------
+
