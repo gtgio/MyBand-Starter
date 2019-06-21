@@ -35,7 +35,7 @@ daaronder vind je een kalender, hier kun je eventueel zelf een evenement toevoeg
 
 DE ABOUT ME PAGINA:
 
-op de about me pagina vind je info over mij en wat ik doe en waarvoor deze site is. ook vind je onderaan een gallerij, deze bestaat uit 4 foto's en 4 video's. als je op 1 van de blokken klikt komt er een modaal tevoorschijn die de foto of video groot weergeeft. je kan het modaal sluiten door linksboven op het kruisje te klikken.
+op de about me pagina vind je info over mij en wat ik doe en waarvoor deze site is. ook vind je onderaan een gallerij, deze bestaat uit 4 foto's en 4 video's. als je op 1 van de blokken klikt komt er een modaal tevoorschijn die de foto of video groot weergeeft. je kan het modaal sluiten door linksboven op het kruisje te klikken. onder de grote modaal vind je de 8 kleine blokjes die je ook kan klikken om naar de volgende te gaan, maar je kan ook de pijltjes die aan de linker en rechterkant van het grote modaal staan gebruiken.
 
 DE SEARCH PAGINA:
 
