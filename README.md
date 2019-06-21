@@ -1,4 +1,4 @@
-alle code bestanden en overige bestanden die niet ik niet hier heb geplaatst kun je vinden in https://github.com/gtgio/Project-My-Band
+alle code bestanden en overige bestanden die ik niet in MyBand-Starter heb geplaatst kun je vinden in https://github.com/gtgio/Project-My-Band
 -----------------------------------------------------------------------------------------------
 
 ## GM Beats
