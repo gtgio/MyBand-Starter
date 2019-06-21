@@ -1,5 +1,6 @@
-alle code bestanden en overige bestanden die ik niet in MyBand-Starter heb geplaatst kun je vinden in https://github.com/gtgio/Project-My-Band (de code staat in het mapje site_ en user stories etc. in het mapje voorbereiding)
+alle code bestanden en overige bestanden die ik niet in MyBand-Starter heb geplaatst kun je vinden in https://github.com/gtgio/Project-My-Band (de code staat in het mapje site_ en user stories etc. in het mapje voorbereiding) . 
 -----------------------------------------------------------------------------------------------
+DE LINK NAAR GM BEATS: http://26301.hosts2.ma-cloud.nl/htdocs/myband/site_/homepage.php
 
 ## GM Beats
 GM Beats is een website van Giovanni Martelli  waar gebruikers informatie kunnen vinden over mijn favoriete artiesten bedoeld voor alle leeftijden 
