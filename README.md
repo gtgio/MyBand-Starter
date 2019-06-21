@@ -1,4 +1,4 @@
-## Titel van jouw website
+## GM Beats
 GM Beats is een website van Giovanni Martelli  waar gebruikers informatie kunnen vinden over mijn favoriete artiesten bedoeld voor alle leeftijden 
 De website is enigszins te vergelijken met wikipedia en muziek streaming sites maar toch anders omdat GM Beats die 2 samen is.
 
