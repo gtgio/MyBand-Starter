@@ -1,4 +1,6 @@
 # PLANNING MY Band
+
+# zie readme bij mijn eigen repository!
 Neem je urenschatting en zet deze uit tegen de uren in de week die je beschikbaar hebt. Om het aantal uren te vinden, kijk je op magister
 Zet de onderdelen in je eigen rooster en let daarbij op deadlines. Plan niet te strak: houdt rekening met onverwachte vertragingen.
 Deze planning is een levend document (blijven aanpassen aan de werkelijke situatie).
